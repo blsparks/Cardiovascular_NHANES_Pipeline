@@ -1,0 +1,8 @@
+
+logs/
+target/
+dbt_modules/
+dbt_packages/
+profiles.yml
+__pycache__/
+.ipynb_checkpoints/

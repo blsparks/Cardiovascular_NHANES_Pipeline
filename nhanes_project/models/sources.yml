@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: nhanes_raw
+    database: healthcare-analysis-489903
+    schema: nhanes_cardiovascular_risk
+    tables:
+      - name: raw_demographic
+      - name: raw_diet
+      - name: raw_examination
+      - name: raw_labs
+      - name: raw_medications
+      - name: raw_questionnaire
