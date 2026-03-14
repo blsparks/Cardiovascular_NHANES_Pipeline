@@ -1,6 +1,6 @@
 # Cardiovascular Risk ELT Pipeline
 
-A clinical data pipeline designed to identify high-risk cardiovascular patients using the NHANES dataset. 
+A clinical data pipeline designed to identify high risk cardiovascular patients using the NHANES dataset. 
 
 ## The Tech Stack
 * **Data Engineering:** dbt (Data Build Tool) & Google BigQuery (SQL)
