@@ -29,4 +29,4 @@ Everything is organized within the `/nhanes_project` directory:
 
 ---
 ## Dashboard Preview
-![Cardiovascular Risk Dashboard]("C:/Users/brand/Downloads/Cardiovascular Risk/nhanes_project/Cardiovascular_Risk_Dashboard.pbix")
+![Cardiovascular Risk Dashboard]("C:/Users/brand/Downloads/Cardiovascular_Dashboard_SS.png")
